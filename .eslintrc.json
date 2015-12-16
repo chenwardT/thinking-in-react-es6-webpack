@@ -27,6 +27,7 @@
         "experimentalObjectRestSpread": true,
         "modules": true
     },
+    "parser": "babel-eslint",
     "plugins": [
         "react"
     ]
