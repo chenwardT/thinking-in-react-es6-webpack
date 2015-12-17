@@ -6,7 +6,7 @@ module.exports = {
         publicPath: 'http://' + INTERFACE + ':8080/',
         filename: 'build/bundle.js'
     },
-    devtool: 'eval',
+    devtool: 'source-map',
     module: {
         preLoaders: [
             {
